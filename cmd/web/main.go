@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/Igarma/bookings/pkg/config"
-	"github.com/Igarma/bookings/pkg/handlers"
-	"github.com/Igarma/bookings/pkg/render"
+	"github.com/Igarma/bookings/internal/config"
+	"github.com/Igarma/bookings/internal/handlers"
+	"github.com/Igarma/bookings/internal/render"
 	"github.com/alexedwards/scs/v2"
 )
 
